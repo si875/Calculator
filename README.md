@@ -22,16 +22,14 @@
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-- 📱 Responsive Design
-- ⚡ Fast Calculation
 - 🎨 Clean UI
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
